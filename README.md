@@ -110,17 +110,3 @@ body:
   redirect_uri: http://localhost:8080
 }
 ```
-
-### 写在最后
-
-项目整合如果遇到问题，可以加入qq群(649932629)交流。
-
-![](http://image.blueskykong.com/qq-chat1.JPG)
-
-ps: qq交流群已设置付费，可以过滤很多广告，营造高质量的技术交流群。
-
-*有问题联系 aoho002#gmail.com*
-
-### MIT License
-
-Copyright (c) 2018 aoho
